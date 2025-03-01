@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  padding: 0 10px;
+  background: linear-gradient(to bottom right, yellow, orange);
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+th {
+  /* background-color: #f2f2f2; */
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
