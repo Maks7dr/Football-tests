@@ -22,7 +22,7 @@ h2 {
   max-width: 375px;
   min-width: 320px;
 }
-tr {
+th {
   font-size: 10px;
 }
 @media only screen and (min-width: 768px) {
@@ -30,7 +30,7 @@ tr {
     background: linear-gradient(to bottom right, yellow, orange);
     max-width: 768px;
   }
-  tr {
+  th {
     font-size: 16px;
   }
 }
@@ -39,7 +39,7 @@ tr {
     background: linear-gradient(to bottom right, yellow, orange);
     max-width: 1024px;
   }
-  tr {
+  th {
     font-size: 18px;
   }
 }
