@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <tr>
             <th>Место</th>
             <th>Имя</th>
-            <th>Прижок</th>
+            <th>Прыжок</th>
             <th>30 м (с)</th>
             <th>Набивание</th>
             <th>Йо-йо</th>
